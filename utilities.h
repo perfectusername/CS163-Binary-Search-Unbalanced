@@ -1,15 +1,3 @@
-/*
-	utilities.h
-
-	Utilities to support interface
-
-	Author: Brooke Czerwinski
-	Date:	10/17/2020
-	Class:	CS163
-	Program #3
-
-*/
-
 #ifndef UTILITIES_H
 #define UTILITIES_H
 
