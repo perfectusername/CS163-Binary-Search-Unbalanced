@@ -1,15 +1,3 @@
-/*
-        utilities.cpp
-
-        Utilities to support interface
-
-        Author: Brooke Czerwinski
-        Date:	10/17/2020
-        Class:	CS163
-        Program #3
-
-*/
-
 #include "utilities.h"
 
 #include <iostream>
