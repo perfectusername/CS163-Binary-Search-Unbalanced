@@ -1,17 +1,3 @@
-/*
-
-	bst.h
-
-	Manage binary tree structure
-
-	Author: Brooke Czerwinski
-	Date: 12/1/2020
-	Class: CS 163
-	Program #4
-
-*/
-
-
 #include "video.h"
 
 
