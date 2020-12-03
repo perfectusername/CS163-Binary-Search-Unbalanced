@@ -1,14 +1,3 @@
-/*
-	main.cpp // Main interface program for testing
-
-	This program manages and keeps track of a tree of videos
-
-	Author: Brooke Czerwinski
-	Date:	11/21/2020
-	Class:	CS163
-	Program #4
-
-*/
 #include "bst.h"
 
 using namespace std;
