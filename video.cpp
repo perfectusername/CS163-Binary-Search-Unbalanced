@@ -1,17 +1,3 @@
-/*
-
-	video.cpp
-
-	Manage video object
-
-	Author: Brooke Czerwinski
-	Date: 12/1/2020
-	Class: CS 163
-	Program #4
-
-*/
-
-
 #include "video.h"
 
 using std::endl;
