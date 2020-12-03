@@ -1,7 +1,5 @@
 #include "video.h"
 
-
-
 struct Vertex
 {
         Vertex();
@@ -12,8 +10,6 @@ struct Vertex
         Vertex* leftChild;
         Vertex* rightChild;
 };
-
-
 
 struct ClassVertex
 {
